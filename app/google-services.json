@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719068097009",
+    "project_id": "assignment-android3",
+    "storage_bucket": "assignment-android3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719068097009:android:b09c139fd4015b756abc50",
+        "android_client_info": {
+          "package_name": "trungndph39729.fpoly.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuih-TZytTD_W9CrLk6exTwrsY9G9oO4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
